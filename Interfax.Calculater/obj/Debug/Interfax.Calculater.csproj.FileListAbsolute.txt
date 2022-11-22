@@ -1,0 +1,14 @@
+C:\Users\Miguel Farias\source\repos\Calculadora\Interfax.Calculater\bin\Debug\Interfax.Calculater.exe.config
+C:\Users\Miguel Farias\source\repos\Calculadora\Interfax.Calculater\bin\Debug\Interfax.Calculater.exe
+C:\Users\Miguel Farias\source\repos\Calculadora\Interfax.Calculater\bin\Debug\Interfax.Calculater.pdb
+C:\Users\Miguel Farias\source\repos\Calculadora\Interfax.Calculater\obj\Debug\Interfax.Calculater.csproj.AssemblyReference.cache
+C:\Users\Miguel Farias\source\repos\Calculadora\Interfax.Calculater\obj\Debug\Interfax.Calculater.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel Farias\source\repos\Calculadora\Interfax.Calculater\obj\Debug\Interfax.Calculater.Properties.Resources.resources
+C:\Users\Miguel Farias\source\repos\Calculadora\Interfax.Calculater\obj\Debug\Interfax.Calculater.csproj.GenerateResource.cache
+C:\Users\Miguel Farias\source\repos\Calculadora\Interfax.Calculater\obj\Debug\Interfax.Calculater.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Farias\source\repos\Calculadora\Interfax.Calculater\obj\Debug\Interfax.Calculater.exe
+C:\Users\Miguel Farias\source\repos\Calculadora\Interfax.Calculater\obj\Debug\Interfax.Calculater.pdb
+C:\Users\Miguel Farias\source\repos\Calculadora\Interfax.Calculater\bin\Debug\Application.Calculater.dll
+C:\Users\Miguel Farias\source\repos\Calculadora\Interfax.Calculater\bin\Debug\Application.Calculater.pdb
+C:\Users\Miguel Farias\source\repos\Calculadora\Interfax.Calculater\obj\Debug\Interfax.Calculater.csproj.CopyComplete
+C:\Users\Miguel Farias\source\repos\Calculadora\Interfax.Calculater\obj\Debug\Interfax.Calculater.Form1.resources

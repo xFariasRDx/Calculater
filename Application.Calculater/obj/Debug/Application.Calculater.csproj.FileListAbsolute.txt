@@ -1,0 +1,6 @@
+C:\Users\Miguel Farias\source\repos\Calculadora\Application.Calculater\bin\Debug\Application.Calculater.dll
+C:\Users\Miguel Farias\source\repos\Calculadora\Application.Calculater\bin\Debug\Application.Calculater.pdb
+C:\Users\Miguel Farias\source\repos\Calculadora\Application.Calculater\obj\Debug\Application.Calculater.csproj.AssemblyReference.cache
+C:\Users\Miguel Farias\source\repos\Calculadora\Application.Calculater\obj\Debug\Application.Calculater.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Farias\source\repos\Calculadora\Application.Calculater\obj\Debug\Application.Calculater.dll
+C:\Users\Miguel Farias\source\repos\Calculadora\Application.Calculater\obj\Debug\Application.Calculater.pdb
