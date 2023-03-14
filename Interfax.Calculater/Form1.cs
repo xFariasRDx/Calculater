@@ -180,37 +180,6 @@ namespace Interfax.Calculater
 
             }
             catch (Exception N) { Screensita.Text = "Syntax E."; }
-            //Start();
-            //Num2 = double.Parse(Screensita.Text);
-            //double sum;
-            //double res;
-            //double mul;
-            //double div;
-
-            //if (Operador == "+")
-            //{
-            //    sum = Logica.Sumar(Num1, Num2);
-            //    Screensita.Text = sum.ToString();
-            //}
-            //else if (Operador == "-")
-            //{
-            //    res = Logica.Restar(Num1, Num2);
-            //    Screensita.Text = res.ToString();
-            //}
-            //else if (Operador == "*")
-            //{
-            //    mul = Logica.Multiplicar(Num1, Num2);
-            //    Screensita.Text = mul.ToString();
-            //}
-            //else if (Operador == "/")
-            //{
-            //    div = Logica.Dividir(Num1, Num2);
-            //    Screensita.Text = div.ToString();
-            //}
-            //else
-            //{
-            //    Screensita.Text = Nada.ToString();
-            //}
         }
 
         private void Form1_Load(object sender, EventArgs e)
